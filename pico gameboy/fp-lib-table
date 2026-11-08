@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "custom_button") (type "KiCad") (uri "C:/Users/deern/Documents/Half Life Hack Club/custom_button.pretty") (options "") (descr ""))
+)
